@@ -1,0 +1,35 @@
+version: 2
+
+models:
+  - name: int_beges__anomalies
+    description: Anomalies et alertes détectées sur chaque bilan GES (une ligne par bilan).
+    columns:
+      - name: bilan_id
+        data_tests:
+          - unique
+          - not_null
+      - name: anomalie_emission_negative
+        data_tests:
+          - anomalie_absente:
+              config:
+                severity: warn
+      - name: anomalie_aucune_emission
+        data_tests:
+          - anomalie_absente:
+              config:
+                severity: warn
+      - name: anomalie_valeur_extreme
+        data_tests:
+          - anomalie_absente:
+              config:
+                severity: warn
+      - name: anomalie_reference_posterieure
+        data_tests:
+          - anomalie_absente:
+              config:
+                severity: warn
+      - name: alerte_doublon_siren_annee
+        data_tests:
+          - anomalie_absente:
+              config:
+                severity: warn

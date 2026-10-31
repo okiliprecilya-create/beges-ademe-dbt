@@ -1,0 +1,89 @@
+naf_division,libelle_division,section_naf,libelle_section,version_naf
+01,"Culture et production animale, chasse et services annexes",A,"Agriculture, sylviculture et pêche",rev2
+02,Sylviculture et exploitation forestière,A,"Agriculture, sylviculture et pêche",rev2
+03,Pêche et aquaculture,A,"Agriculture, sylviculture et pêche",rev2
+05,Extraction de houille et de lignite,B,Industries extractives,rev2
+06,Extraction d'hydrocarbures,B,Industries extractives,rev2
+07,Extraction de minerais métalliques,B,Industries extractives,rev2
+08,Autres industries extractives,B,Industries extractives,rev2
+09,Services de soutien aux industries extractives,B,Industries extractives,rev2
+10,Industries alimentaires,C,Industrie manufacturière,rev2
+11,Fabrication de boissons,C,Industrie manufacturière,rev2
+12,Fabrication de produits à base de tabac,C,Industrie manufacturière,rev2
+13,Fabrication de textiles,C,Industrie manufacturière,rev2
+14,Industrie de l'habillement,C,Industrie manufacturière,rev2
+15,Industrie du cuir et de la chaussure,C,Industrie manufacturière,rev2
+16,"Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles ; fabrication d'articles en vannerie et sparterie",C,Industrie manufacturière,rev2
+17,Industrie du papier et du carton,C,Industrie manufacturière,rev2
+18,Imprimerie et reproduction d'enregistrements,C,Industrie manufacturière,rev2
+19,Cokéfaction et raffinage,C,Industrie manufacturière,rev2
+20,Industrie chimique,C,Industrie manufacturière,rev2
+21,Industrie pharmaceutique,C,Industrie manufacturière,rev2
+22,Fabrication de produits en caoutchouc et en plastique,C,Industrie manufacturière,rev2
+23,Fabrication d'autres produits minéraux non métalliques,C,Industrie manufacturière,rev2
+24,Métallurgie,C,Industrie manufacturière,rev2
+25,"Fabrication de produits métalliques, à l'exception des machines et des équipements",C,Industrie manufacturière,rev2
+26,"Fabrication de produits informatiques, électroniques et optiques",C,Industrie manufacturière,rev2
+27,Fabrication d'équipements électriques,C,Industrie manufacturière,rev2
+28,Fabrication de machines et équipements n.c.a.,C,Industrie manufacturière,rev2
+29,Industrie automobile,C,Industrie manufacturière,rev2
+30,Fabrication d'autres matériels de transport,C,Industrie manufacturière,rev2
+31,Fabrication de meubles,C,Industrie manufacturière,rev2
+32,Autres industries manufacturières,C,Industrie manufacturière,rev2
+33,Réparation et installation de machines et d'équipements,C,Industrie manufacturière,rev2
+35,"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné",D,"Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné",rev2
+36,"Captage, traitement et distribution d'eau",E,"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution",rev2
+37,Collecte et traitement des eaux usées,E,"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution",rev2
+38,"Collecte, traitement et élimination des déchets ; récupération",E,"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution",rev2
+39,Dépollution et autres services de gestion des déchets,E,"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution",rev2
+41,Construction de bâtiments,F,Construction,rev2
+42,Génie civil,F,Construction,rev2
+43,Travaux de construction spécialisés,F,Construction,rev2
+45,Commerce et réparation d'automobiles et de motocycles,G,Commerce ; réparation d'automobiles et de motocycles,rev2
+46,"Commerce de gros, à l'exception des automobiles et des motocycles",G,Commerce ; réparation d'automobiles et de motocycles,rev2
+47,"Commerce de détail, à l'exception des automobiles et des motocycles",G,Commerce ; réparation d'automobiles et de motocycles,rev2
+49,Transports terrestres et transport par conduites,H,Transports et entreposage,rev2
+50,Transports par eau,H,Transports et entreposage,rev2
+51,Transports aériens,H,Transports et entreposage,rev2
+52,Entreposage et services auxiliaires des transports,H,Transports et entreposage,rev2
+53,Activités de poste et de courrier,H,Transports et entreposage,rev2
+55,Hébergement,I,Hébergement et restauration,rev2
+56,Restauration,I,Hébergement et restauration,rev2
+58,Édition,J,Information et communication,rev2
+59,"Production de films cinématographiques, de vidéo et de programmes de télévision ; enregistrement sonore et édition musicale",J,Information et communication,rev2
+60,Programmation et diffusion,J,Information et communication,rev2
+61,Télécommunications,J,Information et communication,rev2
+62,"Programmation, conseil et autres activités informatiques",J,Information et communication,rev2
+63,Services d'information,J,Information et communication,rev2
+64,"Activités des services financiers, hors assurance et caisses de retraite",K,Activités financières et d'assurance,rev2
+65,Assurance,K,Activités financières et d'assurance,rev2
+66,Activités auxiliaires de services financiers et d'assurance,K,Activités financières et d'assurance,rev2
+68,Activités immobilières,L,Activités immobilières,rev2
+69,Activités juridiques et comptables,M,"Activités spécialisées, scientifiques et techniques",rev2
+70,Activités des sièges sociaux ; conseil de gestion,M,"Activités spécialisées, scientifiques et techniques",rev2
+71,Activités d'architecture et d'ingénierie ; activités de contrôle et analyses techniques,M,"Activités spécialisées, scientifiques et techniques",rev2
+72,Recherche-développement scientifique,M,"Activités spécialisées, scientifiques et techniques",rev2
+73,Publicité et études de marché,M,"Activités spécialisées, scientifiques et techniques",rev2
+74,"Autres activités spécialisées, scientifiques et techniques",M,"Activités spécialisées, scientifiques et techniques",rev2
+75,Activités vétérinaires,M,"Activités spécialisées, scientifiques et techniques",rev2
+77,Activités de location et location-bail,N,Activités de services administratifs et de soutien,rev2
+78,Activités liées à l'emploi,N,Activités de services administratifs et de soutien,rev2
+79,"Activités des agences de voyage, voyagistes, services de réservation et activités connexes",N,Activités de services administratifs et de soutien,rev2
+80,Enquêtes et sécurité,N,Activités de services administratifs et de soutien,rev2
+81,Services relatifs aux bâtiments et aménagement paysager,N,Activités de services administratifs et de soutien,rev2
+82,Activités administratives et autres activités de soutien aux entreprises,N,Activités de services administratifs et de soutien,rev2
+84,Administration publique et défense ; sécurité sociale obligatoire,O,Administration publique,rev2
+85,Enseignement,P,Enseignement,rev2
+86,Activités pour la santé humaine,Q,Santé humaine et action sociale,rev2
+87,Hébergement médico-social et social,Q,Santé humaine et action sociale,rev2
+88,Action sociale sans hébergement,Q,Santé humaine et action sociale,rev2
+90,"Activités créatives, artistiques et de spectacle",R,"Arts, spectacles et activités récréatives",rev2
+91,"Bibliothèques, archives, musées et autres activités culturelles",R,"Arts, spectacles et activités récréatives",rev2
+92,Organisation de jeux de hasard et d'argent,R,"Arts, spectacles et activités récréatives",rev2
+93,"Activités sportives, récréatives et de loisirs",R,"Arts, spectacles et activités récréatives",rev2
+94,Activités des organisations associatives,S,Autres activités de services,rev2
+95,Réparation d'ordinateurs et de biens personnels et domestiques,S,Autres activités de services,rev2
+96,Autres services personnels,S,Autres activités de services,rev2
+97,Activités des ménages en tant qu'employeurs de personnel domestique,T,Activités des ménages en tant qu'employeurs ; activités indifférenciées des ménages en tant que producteurs de biens et services pour usage propre,rev2
+98,Activités indifférenciées des ménages en tant que producteurs de biens et services pour usage propre,T,Activités des ménages en tant qu'employeurs ; activités indifférenciées des ménages en tant que producteurs de biens et services pour usage propre,rev2
+99,Activités des organisations et organismes extraterritoriaux,U,Activités extra-territoriales,rev2
