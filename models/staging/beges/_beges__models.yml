@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: stg_beges__bilans
+    description: Un bilan GES par ligne, dédoublonné et typé.
+    columns:
+      - name: bilan_id
+        data_tests:
+          - unique
+          - not_null
+      - name: methode_beges
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['v4', 'v5']

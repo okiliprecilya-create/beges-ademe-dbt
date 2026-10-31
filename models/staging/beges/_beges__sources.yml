@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: beges_ademe
+    database: beges-ademe
+    schema: beges_ademe
+    tables:
+      - name: raw_beges
+        description: Export open data des bilans GES de l'ADEME, chargé tel quel en texte.
