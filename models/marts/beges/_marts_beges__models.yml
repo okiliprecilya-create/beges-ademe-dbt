@@ -1,0 +1,28 @@
+version: 2
+
+models:
+  - name: int_beges__qualite_bilans
+    description: Indicateurs et score de qualité (0 à 100) de chaque bilan GES.
+    columns:
+      - name: bilan_id
+        data_tests:
+          - unique
+          - not_null
+      - name: score_qualite
+        data_tests:
+          - not_null
+
+  - name: mart_beges__qualite_groupes
+    description: Qualité moyenne des bilans GES par secteur NAF et par type de structure.
+    columns:
+      - name: dimension
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['secteur_naf', 'type_structure']
+      - name: groupe
+        data_tests:
+          - not_null
+      - name: score_qualite_moyen
+        data_tests:
+          - not_null

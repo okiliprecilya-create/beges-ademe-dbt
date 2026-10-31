@@ -1,0 +1,14 @@
+version: 2
+
+seeds:
+  - name: ref_naf_divisions
+    description: Référentiel des 88 divisions de la NAF rév. 2 (INSEE), avec leur section.
+    config:
+      column_types:
+        naf_division: string
+        section_naf: string
+    columns:
+      - name: naf_division
+        data_tests:
+          - unique
+          - not_null
